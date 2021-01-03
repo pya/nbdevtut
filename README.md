@@ -1,4 +1,9 @@
-# nbdev template
+# Checking out nbdev
 
-Use this template to more easily create your nbdev project.
+Will see if `nbdev` is a full replacement for an IDE.
+
+
+## Documentation
+
+https://pya.github.io/nbdevtut/
 
