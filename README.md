@@ -1,9 +1,28 @@
-# Checking out nbdev
+# Reproduction of the `nbdev` Tutorial
+> Trying to reproduce https://nbdev.fast.ai/tutorial.html.
 
-Will see if `nbdev` is a full replacement for an IDE.
+
+This file will become your README and also the index of your documentation.
+
+## Install
+
+`pip install nbdevtut`
+
+## How to use
+
+Currently there is only one fuction:
+
+```python
+from nbdevtut.core import say_hello
+```
+
+```python
+say_hello('Developer')
+```
 
 
-## Documentation
 
-https://pya.github.io/nbdevtut/
+
+    'Hello Developer!'
+
 
